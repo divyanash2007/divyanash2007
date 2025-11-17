@@ -113,8 +113,8 @@ Classic snake game built using Python / JavaScript.
 
 # 🌐 Connect With Me
 
-* ✉️ **Email:** add your email here
-* 🔗 **LinkedIn:** add your LinkedIn link here
+* ✉️ **Email:** divyanshg6289@gmail.com
+* 🔗 **LinkedIn:** https://www.linkedin.com/in/divyansh-garg-30770a230/
 
 ---
 
