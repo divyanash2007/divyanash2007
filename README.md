@@ -105,6 +105,18 @@ Classic snake game built using Python / JavaScript.
 
 # 🔥 Contribution Graph
 
+## 🐍 Contribution Snake (Animated)
+
+<div align="center">
+
+![Snake animation](https://github.com/divyanash2007/divyanash2007/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 📈 Activity Heatmap
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanash2007&theme=react-dark&hide_border=true" />
 </div>
