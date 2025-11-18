@@ -2,13 +2,14 @@
 
 <!-- Typing Animation -->
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=6A5BFF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Developer;Python+%7C+C%2B%2B+Programmer;GenAI+%7C+NLP+Enthusiast;Building+Smart+AI+Systems" />
-</div>
 
 <br>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Divyansh%20Garg&fontSize=50&color=0:3A8DFF,100:6A5BFF&fontColor=ffffff&desc=AI%20%7C%20ML%20%7C%20GenAI%20Developer&descAlignY=70" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=6A5BFF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Developer;Python+%7C+C%2B%2B+Programmer;GenAI+%7C+NLP+Enthusiast;Building+Smart+AI+Systems" />
 </div>
 
 ---
@@ -17,11 +18,11 @@
 
 Hi, I'm **Divyansh Garg**, an **AI/ML enthusiast** building real-world intelligent systems using Python and modern ML techniques.
 
-* 🎓 **B.Tech CSE (1st Year)** @ LPU
-* 🤖 Passionate about **Machine Learning, NLP, and GenAI**
-* 💻 Currently building **smart ML models, chatbots & automation tools**
-* 🚀 Exploring **Deep Learning & full‑stack AI systems**
-* 🎯 Aiming to become an **AI/ML Engineer** and land strong internships early
+*  **B.Tech CSE (1st Year)** @ LPU
+*  Passionate about **Machine Learning, NLP, and GenAI**
+*  Currently building **smart ML models, chatbots & automation tools**
+*  Exploring **Deep Learning & full‑stack AI systems**
+*  Aiming to become an **AI/ML Engineer** and land strong internships early
 
 ---
 
