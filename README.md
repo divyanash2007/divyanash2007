@@ -14,7 +14,7 @@
 
 ---
 
-# 💫 About Me
+# About Me
 
 Hi, I'm **Divyansh Garg**, an **AI/ML enthusiast** building real-world intelligent systems using Python and modern ML techniques.
 
@@ -26,9 +26,9 @@ Hi, I'm **Divyansh Garg**, an **AI/ML enthusiast** building real-world intellige
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
-## 🔰 Tech Badges
+## Tech Badges
 
 <div align="center">
 
@@ -75,23 +75,23 @@ Hi, I'm **Divyansh Garg**, an **AI/ML enthusiast** building real-world intellige
 
 ---
 
-# 📦 Featured Projects
+# Featured Projects
 
-### 🔐 **Spam Classifier**
+### **Spam Classifier**
 
 Machine learning model built using NLP + Logistic Regression.
 
-### 🤖 **Divyansh_AI**
+### **Divyansh_AI**
 
 AI experiments with LLMs, automation, and intelligent systems.
 
-### 🎮 **Snake Game**
+### **Snake Game**
 
 Classic snake game built using Python / JavaScript.
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
@@ -104,7 +104,7 @@ Classic snake game built using Python / JavaScript.
 
 ---
 
-# 🔥 Contribution Graph
+# Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanash2007&theme=react-dark&hide_border=true" />
@@ -112,10 +112,10 @@ Classic snake game built using Python / JavaScript.
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
-* ✉️ **Email:** divyanshg6289@gmail.com
-* 🔗 **LinkedIn:** https://www.linkedin.com/in/divyansh-garg-30770a230/
+* **Email:** divyanshg6289@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/divyansh-garg-30770a230/
 
 ---
 
